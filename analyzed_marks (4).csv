@@ -1,0 +1,19 @@
+Student_ID,Name,Math,Physics,Chemistry,Computer_Science,English,Total_Marks,Percentage,Status,Grade
+STU001,Aarav Sharma,88,92,85,95,78,438,87.6,Pass,A
+STU002,Diya Patel,95,89,94,98,91,467,93.4,Pass,A+
+STU003,Rohan Verma,72,68,75,80,70,365,73,Pass,B
+STU004,Ananya Iyer,91,94,70.4,92,89,436.4,87.28,Pass,A
+STU005,Kabir Mehta,45,52,48,50,55,250,50,Pass,D
+STU006,Ishita Gupta,84,79,88,85,82,418,83.6,Pass,A
+STU007,Vivaan Reddy,35,42,38,40,45,200,40,Fail,F
+STU008,Sanya Malhotra,78,82,80,74.9,76,390.9,78.18,Pass,B
+STU009,Arjun Nair,96,98,95,99,94,482,96.4,Pass,A+
+STU010,Meera Joshi,60,65,58,62,64,309,61.8,Pass,C
+STU011,Aditya Rao,28,34,30,42,38,172,34.4,Fail,F
+STU012,Pooja Sen,82,85,89,90,86,432,86.4,Pass,A
+STU013,Karan Bhatia,74,71,69,75,72,361,72.2,Pass,B
+STU014,Tanvi Deshmukh,89,91,90,94,88,452,90.4,Pass,A+
+STU015,Rishi Kulkarni,54,58,52,60,56,280,56,Pass,D
+STU016,Neha Kapoor,92,88,91,95,90,456,91.2,Pass,A+
+STU017,Siddharth Das,67,70,72,68,65,342,68.4,Pass,C
+STU018,Priyanka Roy,40,45,42,48,50,225,45,Pass,D
