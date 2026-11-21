@@ -1,0 +1,4 @@
+Student_ID,Name,Math,Physics,Chemistry,Computer_Science,English,Total_Marks,Percentage,Status,Grade
+STU001,Adarsh Pandey,98,56,89,76,90,409,81.8,Pass,A
+STU002,Aditya Nath,86,78,87,76,98,425,85,Pass,A
+STU003,Akhilesh,88,78,90,56,76,388,77.6,Pass,B
